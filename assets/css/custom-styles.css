@@ -10,5 +10,5 @@
 .h4,
 .h5,
 .h6 {
-    font-family: 'Lora', 'Times New Roman', serif;
+    font-family: 'Lora', 'Times New Roman', serif !important;
 }
