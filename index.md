@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sam Bahrami
-description: "PhD researcher in AI and computer vision at ANU"
+excerpt: Australian PhD researcher in AI and computer vision at ANU.
 ---
 
 I'm an Australian PhD researcher in artificial intelligence and computer vision at the Australian National University in Canberra, Australia. My supervisors are [Dylan Campbell](https://sites.google.com/view/djcampbell), [Stephen Gould](https://users.cecs.anu.edu.au/~sgould/), and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research focuses on 3D reconstruction from limited data (creating 3D models from 2D images), basically helping computers see and understand the world in three dimensions, even when they don't have all the pieces of the puzzle.
