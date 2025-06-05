@@ -4,11 +4,6 @@
 }
 
 /* Use same as body font for headings */
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
-    font-family: 'Lora', 'Times New Roman', serif !important;
+h1, h2{
+    font-family: var(--body-font) !important;
 }
