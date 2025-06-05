@@ -1,0 +1,4 @@
+/* Hide any page title elements */
+.navbar {
+    display: none !important;
+}

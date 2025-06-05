@@ -1,0 +1,47 @@
+title: Sam Bahrami
+description: PhD researcher in artificial intelligence and computer vision at the Australian National University
+baseurl: ""
+url: "https://sambahrami.github.io"
+
+# Build settings
+markdown: kramdown
+remote_theme: daattali/beautiful-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll theme settings - minimal header
+navbar-links: {}
+
+# Hide page header
+page-title: false
+page-subtitle: false
+
+# Include custom CSS
+site-css: "/assets/css/custom-styles.css"
+
+# Social network links
+social-network-links:
+  github: SamBahrami
+  linkedin: sambahrami
+
+# Excerpt length
+excerpt_length: 50
+
+# Footer text
+footer-extra: |
+  <p>PhD researcher in AI and computer vision at ANU</p>
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - website.md
+  - README.md
+  - CHANGELOG.md
