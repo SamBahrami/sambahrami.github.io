@@ -31,24 +31,28 @@ I'm also involved in AI safety research, particularly evaluating large language 
 **Machine Learning and Research Engineer** (2019-2023)  
 [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) and [Australian Centre for Robotic Vision](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision) working with [Ian Reid](https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en), [Tat-Jun Chin](https://scholar.google.com/citations?user=WyqGF10AAAAJ&hl=en) and [Anton Van Den Hengel](https://scholar.google.com/citations?user=nMGZ2ZQAAAAJ&hl=en)
 
----
+<!-- **Software Engineer** (2016-2019)
 
-## 🏆 Awards
+**Bachelor of Electrical and Electronic Engineering (Honours)** (2016)  
+University of Adelaide
 
-**[ANU Hackathon](https://www.anu.edu.au/students/student-life/events-stories/anu-hackathon-produces-innovative-ai-enabled-healthcare-solutions)** Healthcare and AI themed, second place
+**Bachelor of Mathematics and Computer Science** (2016)  
+University of Adelaide -->
 
-**[Learn2Race Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge)** Virtual racing competition winners, [paper published at ICML](https://arxiv.org/abs/2206.15012)
-
-**[Developer on the NASA Robotics Challenge](https://www.adelaide.edu.au/aiml/news/list/2021/10/06/aiml-key-in-nasa-prize-winning-innovation)** winners of $100k USD prize
-
-**[Govhack Hackathon Winners](https://www.adelaide.edu.au/aiml/news/list/2019/10/21/team-artificially-intelligent-win-at-govhack-2019)**
-
----
-
-## 🌍 Places
+## 🌍 Places & Engagements
 
 **[AMSI Summer School 2025](https://amsi.org.au/events/event/amsi-summer-school-2025/)** enrolled in Elliptic PDEs from an Elementary Viewpoint by [Enrico Valdinoci](https://research-repository.uwa.edu.au/en/persons/enrico-valdinoci), and Optimal transportation and Monge-Ampère equations by [Jiakun Liu](https://sites.google.com/view/jiakunl/home/research) [(photo)](photos/amsi-2025.jpg)
 
 **[Research @ Sydney Google Event 2025](https://blog.google/intl/en-au/company-news/technology/research-sydney-charting-new-ai-frontiers-alongside-the-research-ecosystem-in-australia/)**
 
 **[Australian AI Safety Forum 2024](https://aisafetyforum.au/)** [(photo)](photos/ai-safety-forum-2024.jpg) 
+
+**[ANU Hackathon](https://www.anu.edu.au/students/student-life/events-stories/anu-hackathon-produces-innovative-ai-enabled-healthcare-solutions)** Healthcare and AI themed, second place [(photo)](photos/anu-hackathon-2024.jpg)
+
+**[Made a public art vending machine](https://www.adelaide.edu.au/aiml/news/list/2023/03/20/ai-art-vending-machine-seeks-human-connection-not-money)** for the city of Adelaide [(photo)](photos/art-vending-machine.jpg)
+
+**[Learn2Race Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge)** Virtual racing competition winners, [paper published at ICML](https://arxiv.org/abs/2206.15012)
+
+**[Developer on the NASA Robotics Challenge](https://www.adelaide.edu.au/aiml/news/list/2021/10/06/aiml-key-in-nasa-prize-winning-innovation)** won a $100k USD prize
+
+**[Govhack Hackathon](https://www.adelaide.edu.au/aiml/news/list/2019/10/21/team-artificially-intelligent-win-at-govhack-2019)** winners
