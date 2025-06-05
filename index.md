@@ -3,7 +3,7 @@ layout: page
 title: Sam Bahrami
 ---
 
-I am a PhD researcher in artificial intelligence and computer vision at the Australian National University. My supervisors are [Dylan Campbell](https://sites.google.com/view/djcampbell), [Stephen Gould](https://users.cecs.anu.edu.au/~sgould/), and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research focuses on 3D reconstruction from limited data (creating 3D models from 2D images).
+I'm an Australian PhD researcher in artificial intelligence and computer vision at the Australian National University in Canberra, Australia. My supervisors are [Dylan Campbell](https://sites.google.com/view/djcampbell), [Stephen Gould](https://users.cecs.anu.edu.au/~sgould/), and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). My research focuses on 3D reconstruction from limited data (creating 3D models from 2D images), basically helping computers see and understand the world in three dimensions, even when they don't have all the pieces of the puzzle.
 
 ![Sam Bahrami](photos/20231205.jpg){: .center-block :}
 
@@ -46,8 +46,8 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 🌍 Places
 
-**[AMSI Summer School 2025](https://amsi.org.au/events/event/amsi-summer-school-2025/)** enrolled in Elliptic PDEs from an Elementary Viewpoint by [Enrico Valdinoci](https://research-repository.uwa.edu.au/en/persons/enrico-valdinoci), and Optimal transportation and Monge-Ampère equations by [Jiakun Liu](https://sites.google.com/view/jiakunl/home/research) [(photo)](photos/amsi.jpg)
+**[AMSI Summer School 2025](https://amsi.org.au/events/event/amsi-summer-school-2025/)** enrolled in Elliptic PDEs from an Elementary Viewpoint by [Enrico Valdinoci](https://research-repository.uwa.edu.au/en/persons/enrico-valdinoci), and Optimal transportation and Monge-Ampère equations by [Jiakun Liu](https://sites.google.com/view/jiakunl/home/research) [(photo)](photos/amsi-2025.jpg)
 
 **[Research @ Sydney Google Event 2025](https://blog.google/intl/en-au/company-news/technology/research-sydney-charting-new-ai-frontiers-alongside-the-research-ecosystem-in-australia/)**
 
-**[Australian AI Safety Forum 2024](https://aisafetyforum.au/)** [(photo)](photos/ai_safety_forum_2024.jpg) 
+**[Australian AI Safety Forum 2024](https://aisafetyforum.au/)** [(photo)](photos/ai-safety-forum-2024.jpg) 
