@@ -39,6 +39,8 @@ University of Adelaide
 **Bachelor of Mathematics and Computer Science** (2016)  
 University of Adelaide -->
 
+---
+
 ## 🌍 Places & Engagements
 
 **[AMSI Summer School 2025](https://amsi.org.au/events/event/amsi-summer-school-2025/)** enrolled in Elliptic PDEs from an Elementary Viewpoint by [Enrico Valdinoci](https://research-repository.uwa.edu.au/en/persons/enrico-valdinoci), and Optimal transportation and Monge-Ampère equations by [Jiakun Liu](https://sites.google.com/view/jiakunl/home/research) [(photo)](photos/amsi-2025.jpg)
