@@ -7,3 +7,20 @@
 h1, h2{
     font-family: var(--body-font) !important;
 }
+/* Justify text alignment */
+p {
+    text-align: justify !important;
+}
+
+/* Also apply to main content areas */
+.main-content,
+.post-content,
+.page-content {
+    text-align: justify !important;
+}
+
+/* Keep footnotes left-aligned */
+.copyright,
+.theme-by {
+    text-align: center !important;
+}
