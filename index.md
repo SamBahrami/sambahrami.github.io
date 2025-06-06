@@ -55,6 +55,8 @@ University of Adelaide -->
 
 **[Learn2Race Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge)** Virtual racing competition winners, [paper published at ICML](https://arxiv.org/abs/2206.15012)
 
+<!-- **[South Australian Science and Innovation awards](https://www.scienceawards.sa.gov.au/2021-winners)** excellence in science and industry collaboration winners, as part of the Australian Institute for Machine Learning industry solutions team [(photo)](photo/science-industry.jpg) -->
+
 **[Developer on the NASA Robotics Challenge](https://www.adelaide.edu.au/aiml/news/list/2021/10/06/aiml-key-in-nasa-prize-winning-innovation)** won a $100k USD prize
 
 **[Govhack Hackathon](https://www.adelaide.edu.au/aiml/news/list/2019/10/21/team-artificially-intelligent-win-at-govhack-2019)** winners
