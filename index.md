@@ -16,7 +16,7 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 📚 Work
 
-**First PhD publication** [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://arxiv.org/abs/2506.03713)
+**First PhD publication** [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://arxiv.org/abs/2506.03713) at CVPR
 
 **AI Safety Research** [UK AI Safety Institute bounty](https://www.aisi.gov.uk/work/evals-bounty) recipient for developing a novel evaluation method for large language models using algorithmic information theory 
 
