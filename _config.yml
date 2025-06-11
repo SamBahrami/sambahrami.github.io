@@ -26,13 +26,9 @@ social-network-links:
   github: SamBahrami
   linkedin: sambahrami
 
-plugins:
-  - jekyll-analytics
-  
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-BTQV0J9EJF          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+# Google Analytics
+google_analytics: G-BTQV0J9EJF
+
 # Excerpt length
 excerpt_length: 50
 
