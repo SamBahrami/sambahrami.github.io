@@ -43,6 +43,8 @@ University of Adelaide -->
 
 ## 🌍 Places & Engagements
 
+**[CVPR 2025](https://cvpr.thecvf.com/)** presenting [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://arxiv.org/abs/2506.03713) [(photo)](photos/cvpr_poster.JPG)
+
 **[AMSI Summer School 2025](https://amsi.org.au/events/event/amsi-summer-school-2025/)** enrolled in Elliptic PDEs from an Elementary Viewpoint by [Enrico Valdinoci](https://research-repository.uwa.edu.au/en/persons/enrico-valdinoci), and Optimal transportation and Monge-Ampère equations by [Jiakun Liu](https://sites.google.com/view/jiakunl/home/research) [(photo)](photos/amsi-2025.jpg)
 
 **[Research @ Sydney Google Event 2025](https://blog.google/intl/en-au/company-news/technology/research-sydney-charting-new-ai-frontiers-alongside-the-research-ecosystem-in-australia/)**
