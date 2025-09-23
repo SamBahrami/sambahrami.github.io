@@ -29,6 +29,9 @@ social-network-links:
 # Google Analytics
 gtag: G-BTQV0J9EJF
 
+# Include custom JavaScript
+site-js: "/assets/js/custom-script.js"
+
 # Excerpt length
 excerpt_length: 50
 
