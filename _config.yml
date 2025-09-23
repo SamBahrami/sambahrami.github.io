@@ -26,9 +26,6 @@ social-network-links:
   github: SamBahrami
   linkedin: sambahrami
 
-# Google Analytics
-gtag: G-BTQV0J9EJF
-
 # Include custom JavaScript
 site-js: "/assets/js/custom-script.js"
 
