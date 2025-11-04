@@ -45,6 +45,8 @@ University of Adelaide -->
 
 ## 🌍 Places & Engagements
 
+**[MLSS Melbourne 2026](https://www.mlss-melbourne.com/)** attending machine learning summer school "The Future of AI Beyond LLMs" in Melbourne, Australia (February 2-13, 2026)
+
 **[CVPR 2025](https://cvpr.thecvf.com/)** presenting [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://arxiv.org/abs/2506.03713) [(photo)](photos/cvpr_poster.JPG)
 
 **[AMSI Summer School 2025](https://amsi.org.au/events/event/amsi-summer-school-2025/)** enrolled in Elliptic PDEs from an Elementary Viewpoint by [Enrico Valdinoci](https://research-repository.uwa.edu.au/en/persons/enrico-valdinoci), and Optimal transportation and Monge-Ampère equations by [Jiakun Liu](https://sites.google.com/view/jiakunl/home/research) [(photo)](photos/amsi-2025.jpg)
