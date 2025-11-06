@@ -16,7 +16,7 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 📚 Work
 
-**We had a paper accepted** on single view 3D room reconstruction at [AJCAI](https://ajcai2025.org/)
+**We had a paper accepted** on single view 3D room reconstruction at [AJCAI](https://ajcai2025.org/): [Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images](/room_envelopes)
 
 **First PhD publication** [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://github.com/SamBahrami/PluckeRF) at CVPR
 

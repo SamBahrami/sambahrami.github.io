@@ -30,19 +30,19 @@ We introduce Room Envelopes, a synthetic dataset that provides **dual pointmap r
     <div class="columns is-vcentered">
       <div class="column has-text-centered" style="display: flex; flex-direction: column;">
         <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
-          <img src="photos/room_envelopes/examples/ai_011_009-cam_00-9_image.png" style="width: 100%; border-radius: 10px;">
+          <img src="photos/room_envelopes/examples/ai_003_005-cam_01-54_image.png" style="width: 100%; border-radius: 10px;">
         </div>
         <p class="has-text-weight-bold">RGB Image</p>
       </div>
       <div class="column has-text-centered">
-        <img src="photos/room_envelopes/examples/ai_011_009-cam_00-9_first_depth.png" style="width: 100%; border-radius: 10px; margin-bottom: 0.5rem;">
-        <img src="photos/room_envelopes/examples/ai_011_009-cam_00-9_first_normal.png" style="width: 100%; border-radius: 10px;">
+        <img src="photos/room_envelopes/examples/ai_003_005-cam_01-54_first_depth.png" style="width: 100%; border-radius: 10px; margin-bottom: 0.5rem;">
+        <img src="photos/room_envelopes/examples/ai_003_005-cam_01-54_first_normal.png" style="width: 100%; border-radius: 10px;">
         <p class="has-text-weight-bold">Visible Surface</p>
         <p class="is-size-7">Depth & Normals</p>
       </div>
       <div class="column has-text-centered">
-        <img src="photos/room_envelopes/examples/ai_011_009-cam_00-9_layout_depth.png" style="width: 100%; border-radius: 10px; margin-bottom: 0.5rem;">
-        <img src="photos/room_envelopes/examples/ai_011_009-cam_00-9_layout_normal.png" style="width: 100%; border-radius: 10px;">
+        <img src="photos/room_envelopes/examples/ai_003_005-cam_01-54_layout_depth.png" style="width: 100%; border-radius: 10px; margin-bottom: 0.5rem;">
+        <img src="photos/room_envelopes/examples/ai_003_005-cam_01-54_layout_normal.png" style="width: 100%; border-radius: 10px;">
         <p class="has-text-weight-bold">Layout Surface</p>
         <p class="is-size-7">Depth & Normals</p>
       </div>
