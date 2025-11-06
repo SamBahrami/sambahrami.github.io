@@ -22,299 +22,122 @@
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
   <!-- Bulma CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.5/dist/css/bulma-carousel.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-slider@2.0.5/dist/css/bulma-slider.min.css">
-  
-  <!-- Icons -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/nerfies.github.io-main/static/css/bulma.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/nerfies.github.io-main/static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/nerfies.github.io-main/static/css/bulma-slider.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/nerfies.github.io-main/static/css/index.css">
 
-  <!-- Custom Nerfies-inspired CSS -->
-  <style>
-    body {
-      font-family: 'Noto Sans', sans-serif;
-    }
-
-    .hero.teaser {
-      font-family: 'Google Sans', sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
-    }
-
-    .hero.teaser .hero-body {
-      padding-top: 3rem;
-      padding-bottom: 3rem;
-    }
-
-    .publication-title {
-      font-family: 'Google Sans', sans-serif;
-      font-size: 3rem;
-      font-weight: 700;
-      margin-bottom: 1rem;
-    }
-
-    .publication-authors {
-      font-family: 'Google Sans', sans-serif;
-      font-size: 1.2rem;
-      margin-bottom: 1rem;
-    }
-
-    .publication-authors a {
-      color: #fff !important;
-      text-decoration: underline;
-    }
-
-    .publication-authors a:hover {
-      color: #f0f0f0 !important;
-    }
-
-    .publication-venue {
-      color: #f0f0f0;
-      font-weight: bold;
-      font-size: 1.1rem;
-    }
-
-    .publication-awards {
-      color: #ff3860;
-      font-weight: bolder;
-      background: rgba(255, 255, 255, 0.1);
-      padding: 0.5rem 1rem;
-      border-radius: 25px;
-      margin-top: 1rem;
-      display: inline-block;
-    }
-
-    .author-block {
-      display: inline-block;
-      margin-right: 1rem;
-    }
-
-    .link-block {
-      margin-top: 2rem;
-    }
-
-    .link-block a {
-      margin: 0.25rem;
-      display: inline-block;
-    }
-
-    .button.is-rounded {
-      padding-left: 1.5rem;
-      padding-right: 1.5rem;
-    }
-
-    .section {
-      padding: 3rem 1.5rem;
-    }
-
-    .container {
-      max-width: 1000px;
-    }
-
-    .content h2 {
-      font-family: 'Google Sans', sans-serif;
-      font-size: 2rem;
-      color: #363636;
-      margin-bottom: 1rem;
-      border-bottom: 2px solid #667eea;
-      padding-bottom: 0.5rem;
-    }
-
-    .content h3 {
-      font-family: 'Google Sans', sans-serif;
-      font-size: 1.5rem;
-      color: #4a4a4a;
-      margin-top: 2rem;
-      margin-bottom: 1rem;
-    }
-
-    .content p {
-      font-size: 1.1rem;
-      line-height: 1.7;
-      margin-bottom: 1.5rem;
-    }
-
-    .content ul, .content ol {
-      font-size: 1.1rem;
-      line-height: 1.7;
-    }
-
-    .content strong {
-      color: #667eea;
-    }
-
-    .footer {
-      background-color: #fafafa;
-      padding: 3rem 1.5rem 6rem;
-    }
-
-    .footer .icon-link {
-      font-size: 25px;
-      color: #000;
-      margin: 0 0.5rem;
-    }
-
-    .back-to-site {
-      position: fixed;
-      top: 20px;
-      left: 20px;
-      z-index: 1000;
-    }
-
-    .publication-banner {
-      margin: 2rem 0;
-      text-align: center;
-    }
-
-    .publication-banner img {
-      border-radius: 10px;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-      max-width: 100%;
-      height: auto;
-    }
-
-    .publication-video {
-      position: relative;
-      width: 100%;
-      height: 0;
-      padding-bottom: 56.25%;
-      overflow: hidden;
-      border-radius: 10px !important;
-      margin: 2rem 0;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    }
-
-    .publication-video iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    }
-
-    @media screen and (max-width: 768px) {
-      .publication-title {
-        font-size: 2rem;
-      }
-      
-      .publication-authors {
-        font-size: 1rem;
-      }
-      
-      .back-to-site {
-        position: relative;
-        top: auto;
-        left: auto;
-        margin-bottom: 1rem;
-      }
-    }
-  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/nerfies.github.io-main/static/js/bulma-carousel.min.js"></script>
+  <script src="{{ site.baseurl }}/nerfies.github.io-main/static/js/bulma-slider.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/nerfies.js"></script>
 </head>
-
 <body>
-  <!-- Back to main site button -->
-  <div class="back-to-site">
-    <a href="{{ site.baseurl }}/" class="button is-light is-rounded">
-      <span class="icon">
-        <i class="fas fa-arrow-left"></i>
-      </span>
-      <span>Back to Main Site</span>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
     </a>
   </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="{{ site.baseurl }}/">
+        <span class="icon">
+          <i class="fas fa-home"></i>
+        </span>
+      </a>
+    </div>
+  </div>
+</nav>
 
-  <!-- Hero Section -->
-  <section class="hero teaser">
-    <div class="container">
-      <div class="hero-body">
-        <div class="container">
-          <div class="columns is-centered">
-            <div class="column has-text-centered">
-              <h1 class="publication-title">{{ page.title }}</h1>
-              {% if page.description %}
-              <div class="publication-venue">{{ page.description }}</div>
-              {% endif %}
-              
-              {% if page.authors %}
-              <div class="publication-authors">
-                {% for author in page.authors %}
-                <span class="author-block">
-                  {% if author.url %}
-                  <a href="{{ author.url }}">{{ author.name }}</a>
-                  {% else %}
-                  {{ author.name }}
-                  {% endif %}
-                </span>
-                {% unless forloop.last %},{% endunless %}
-                {% endfor %}
-              </div>
-              {% endif %}
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">{{ page.title }}</h1>
+          <div class="is-size-5 publication-authors">
+            {% for author in page.authors %}
+            <span class="author-block">
+              <a href="{{ author.url }}">{{ author.name }}</a>{% unless forloop.last %},{% endunless %}
+            </span>
+            {% endfor %}
+          </div>
 
-              {% if page.awards %}
-              <div class="publication-awards">{{ page.awards }}</div>
-              {% endif %}
+          {% if page.description %}
+          <div class="is-size-5 publication-authors">
+            <span class="publication-venue">{{ page.description }}</span>
+          </div>
+          {% endif %}
 
-              {% if page.links %}
-              <div class="column has-text-centered">
-                <div class="link-block">
-                  {% for link in page.links %}
-                  <a href="{{ link.url }}" class="button is-rounded {% if link.primary %}is-link{% else %}is-light{% endif %}">
-                    {% if link.icon %}
-                    <span class="icon">
-                      <i class="{{ link.icon }}"></i>
-                    </span>
-                    {% endif %}
-                    <span>{{ link.text }}</span>
-                  </a>
-                  {% endfor %}
-                </div>
-              </div>
-              {% endif %}
+          {% if page.awards %}
+          <div class="publication-awards">{{ page.awards }}</div>
+          {% endif %}
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              {% for link in page.links %}
+              <span class="link-block">
+                <a href="{{ link.url }}"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="{{ link.icon }}"></i>
+                  </span>
+                  <span>{{ link.text }}</span>
+                </a>
+              </span>
+              {% endfor %}
             </div>
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Main Content -->
-  <section class="section">
-    <div class="container">
-      <div class="columns is-centered">
-        <div class="column is-four-fifths">
-          <div class="content">
-            {{ content }}
-          </div>
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <div class="content has-text-justified">
+          {{ content }}
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="container">
-      <div class="content has-text-centered">
-        <p>
-          Made with ❤️ using the <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a> design inspiration
-        </p>
-        {% if site.social-network-links %}
-        <p>
-          {% for social in site.social-network-links %}
-          <a href="https://{{ social[0] }}.com/{{ social[1] }}" class="icon-link">
-            <i class="fab fa-{{ social[0] }}"></i>
-          </a>
-          {% endfor %}
-        </p>
-        {% endif %}
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link" href="{{ site.baseurl }}/">
+        <i class="fas fa-home"></i>
+      </a>
+      {% if site.social-network-links %}
+      {% for social in site.social-network-links %}
+      <a class="icon-link" href="https://{{ social[0] }}.com/{{ social[1] }}" class="external-link">
+        <i class="fab fa-{{ social[0] }}"></i>
+      </a>
+      {% endfor %}
+      {% endif %}
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            Template was borrowed from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a> under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+        </div>
       </div>
     </div>
-  </footer>
+  </div>
+</footer>
 
-  <!-- Scripts -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.5/dist/js/bulma-carousel.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bulma-slider@2.0.5/dist/js/bulma-slider.min.js"></script>
 </body>
 </html>
-
-
