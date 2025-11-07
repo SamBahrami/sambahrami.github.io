@@ -10,7 +10,7 @@ authors:
 keywords: 3D Scene Reconstruction, Indoor Scene Understanding, Layout Estimation, Synthetic Data
 links:
   - text: Paper
-    url: "https://arxiv.org"
+    url: "https://arxiv.org/pdf/2511.03970"
     icon: "fas fa-file-pdf"
     primary: true
   - text: Code (Coming Soon)
