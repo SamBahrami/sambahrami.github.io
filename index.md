@@ -16,11 +16,12 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 📚 Work
 
-**We had a paper accepted** on single view 3D room reconstruction at [AJCAI](https://ajcai2025.org/): [Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images](/room_envelopes)
+**We had a paper accepted** on single view 3D room reconstruction at [AJCAI](https://ajcai2025.org/): [Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images](/room_envelopes) **(Oral)**
 
 **First PhD publication** [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://github.com/SamBahrami/PluckeRF) at CVPR
 
-**AI Safety Research** [UK AI Safety Institute bounty](https://www.aisi.gov.uk/work/evals-bounty) recipient for developing a novel evaluation method for large language models using algorithmic information theory 
+**AI Safety Evaluation Framework for LLMs (£40,000 grant)** Awarded [UK AI Safety Institute bounty](https://www.aisi.gov.uk/work/evals-bounty) to design an evaluation framework for detecting sandbagging in AI systems built on algorithmic information theory, applying Kolmogorov complexity as a measure of behavioural simplicity
+vs. strategic concealment
 
 **Co-author** [The Edge of Disaster: A Battle Between Autonomous Racing and Safety](https://arxiv.org/abs/2206.15012)
 
