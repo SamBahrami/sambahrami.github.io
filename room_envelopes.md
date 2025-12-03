@@ -162,13 +162,12 @@ We trained a layout estimation model by fine-tuning a feed-forward depth estimat
 ## BibTeX
 
 ```bibtex
-@article{bahrami2025roomenvelopes,
-  title={Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images}, 
-  author={Sam Bahrami and Dylan Campbell},
+@inproceedings{bahrami2025roomenvelopes,
+  title={Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images},
+  author={Bahrami, Sam and Campbell, Dylan},
+  booktitle={Australasian Joint Conference on Artificial Intelligence},
+  pages={229--241},
   year={2025},
-  eprint={2511.03970},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2511.03970}, 
+}
 }
 ```
