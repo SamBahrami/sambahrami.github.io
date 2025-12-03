@@ -13,11 +13,11 @@ links:
     url: "https://arxiv.org/pdf/2511.03970"
     icon: "fas fa-file-pdf"
     primary: true
-  - text: Code (Coming Soon)
+  - text: Code
     url: "https://github.com/SamBahrami/Room_Envelopes"
     icon: "fab fa-github"
-  - text: Dataset (Coming Soon)
-    url: "#"
+  - text: Dataset and Model
+    url: "https://huggingface.co/datasets/hugsam/Room_Envelopes"
     icon: "fas fa-database"
 ---
 
