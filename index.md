@@ -16,12 +16,11 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 📚 Work
 
-**We had a paper accepted** on single view 3D room reconstruction at [AJCAI](https://ajcai2025.org/): [Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images](/room_envelopes) **(Oral)**
+**We had a paper accepted** on single view 3D room reconstruction at [AJCAI](https://ajcai2025.org/): [Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images](/room_envelopes) **(Oral) (Best Poster Award Winner)**
 
-**First PhD publication** [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://github.com/SamBahrami/PluckeRF) at CVPR
+**First PhD publication** [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://github.com/SamBahrami/PluckeRF) at CVPR 2025
 
-**AI Safety Evaluation Framework for LLMs (£40,000 grant)** Awarded [UK AI Safety Institute bounty](https://www.aisi.gov.uk/work/evals-bounty) to design an evaluation framework for detecting sandbagging in AI systems built on algorithmic information theory, applying Kolmogorov complexity as a measure of behavioural simplicity
-vs. strategic concealment
+**AI Safety Evaluation Framework for LLMs (£40,000 grant)** Awarded [UK AI Safety Institute bounty](https://www.aisi.gov.uk/work/evals-bounty) to design an evaluation framework for detecting sandbagging in AI systems built on algorithmic information theory, applying Kolmogorov complexity as a measure of behavioural simplicity vs. strategic concealment
 
 **Co-author** [The Edge of Disaster: A Battle Between Autonomous Racing and Safety](https://arxiv.org/abs/2206.15012)
 
@@ -46,7 +45,9 @@ University of Adelaide -->
 
 ## 🌍 Places & Engagements
 
-**[MLSS Melbourne 2026](https://www.mlss-melbourne.com/)** attending machine learning summer school "The Future of AI Beyond LLMs" in Melbourne, Australia (February 2-13, 2026)
+**[AJCAI 2025](https://ajcai2025.org/)** in Canberra, Australia presenting [Room Envelopes](/room_envelopes)
+
+<!-- **[MLSS Melbourne 2026](https://www.mlss-melbourne.com/)** attending machine learning summer school "The Future of AI Beyond LLMs" in Melbourne, Australia (February 2-13, 2026) -->
 
 **[CVPR 2025](https://cvpr.thecvf.com/)** presenting [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://arxiv.org/abs/2506.03713) [(photo)](photos/cvpr_poster.JPG)
 
