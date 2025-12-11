@@ -21,6 +21,12 @@ links:
     icon: "fas fa-database"
 ---
 
+<div class="columns is-centered" style="margin-bottom: 2rem;">
+  <div class="column is-full-width has-text-centered">
+    <img src="photos/room_envelopes/Room Envelopes Flowchart.png" style="width: 100%; border-radius: 10px;">
+  </div>
+</div>
+
 We introduce Room Envelopes, a synthetic dataset that provides **dual pointmap representations** for indoor scene reconstruction. Each image comes with three complementary views: RGB image, visible surface (depth and normals), and layout surface (depth and normals), with examples below. The **visible surface** captures all directly visible geometry including furniture and objects, while the **layout surface** shows structural elements as they would appear without occlusion. This dual representation enables direct supervision for layout reconstruction in occluded regions.
 
 ## Dataset Examples
