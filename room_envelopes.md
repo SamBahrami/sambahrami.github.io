@@ -175,5 +175,4 @@ We trained a layout estimation model by fine-tuning a feed-forward depth estimat
   pages={229--241},
   year={2025},
 }
-}
 ```
