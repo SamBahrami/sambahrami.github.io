@@ -47,7 +47,7 @@ University of Adelaide -->
 
 **[2026 ML Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/)** attending machine learning summer school "The Future of AI Beyond LLMs" in Melbourne, Australia, met some great people! [(photo)](photos/IMG_7487.jpg) 
 
-**[2025 AJCAI](https://ajcai2025.org/)** in Canberra, Australia presenting [Room Envelopes](/room_envelopes)
+**[2025 AJCAI](https://ajcai2025.org/)** in Canberra, Australia presenting [Room Envelopes](/room_envelopes) which won the [best poster award (photo)](photos/AJCAI%20Award.JPG)
 
 **[2025 CVPR](https://cvpr.thecvf.com/)** presenting [PlückeRF: A Line-based 3D Representation for Few-view Reconstruction](https://arxiv.org/abs/2506.03713) [(photo)](photos/cvpr_poster.JPG)
 
