@@ -16,9 +16,12 @@ links:
   - text: Code
     url: "https://github.com/SamBahrami/Room_Envelopes"
     icon: "fab fa-github"
-  - text: Dataset and Model
+  - text: Dataset
     url: "https://huggingface.co/datasets/hugsam/Room_Envelopes"
     icon: "fas fa-database"
+  - text: Model
+    url: "https://huggingface.co/hugsam/room_envelopes_model"
+    icon: "fas fa-cube"
 ---
 
 <div class="columns is-centered" style="margin-bottom: 2rem;">
