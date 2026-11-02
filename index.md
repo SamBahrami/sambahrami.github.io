@@ -28,6 +28,8 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 💼 Experience
 
+**[Research Scientist Intern at Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)** in Boston, Massachusetts, starting July 2026, working on 3D scene graphs and multi-agent collaboration with [Anoop Cherian](https://users.cecs.anu.edu.au/~cherian/)
+
 **PhD Researcher** at the Australian National University (2023-present)   
 
 **Machine Learning and Research Engineer** (2018-2023)  
@@ -44,6 +46,8 @@ University of Adelaide -->
 ---
 
 ## 🌍 Places & Engagements
+
+**[2026 International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2026/)** attended in Sicily, Italy, met some great people! [(photo)](photos/ICVSS_photo.jpg). Highly recommend to attend if you get the chance!
 
 **[2026 ML Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/)** attending machine learning summer school "The Future of AI Beyond LLMs" in Melbourne, Australia, met some great people! [(photo)](photos/IMG_7487.jpg) 
 
@@ -68,3 +72,13 @@ University of Adelaide -->
 **[2021 Developer on the NASA Robotics Challenge University of Adelaide team](https://www.adelaide.edu.au/aiml/news/list/2021/10/06/aiml-key-in-nasa-prize-winning-innovation)** won a $75k USD prize, paper published to [ICRA 2022](https://arxiv.org/abs/2109.12109)
 
 **[2019 Govhack Hackathon](https://www.adelaide.edu.au/aiml/news/list/2019/10/21/team-artificially-intelligent-win-at-govhack-2019)** winners
+
+---
+
+## 📝 Service
+
+**Reviewer** for [ICLR 2026](https://iclr.cc/Conferences/2026)
+
+**Reviewer** for [AJCAI 2026](https://ajcai2026.org/)
+
+**Reviewer** for [AJCAI 2025](https://ajcai2025.org/)
