@@ -28,7 +28,7 @@ I'm also involved in AI safety research, particularly evaluating large language 
 
 ## 💼 Experience
 
-**[Research Scientist Intern at Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)** in Boston, Massachusetts, starting July 2026, working on 3D scene graphs and multi-agent collaboration with [Anoop Cherian](https://users.cecs.anu.edu.au/~cherian/)
+**[Research Scientist Intern at Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)** in Cambridge, Massachusetts (July-November 2026), working on 3D scene graphs and multi-agent collaboration with [Anoop Cherian](https://users.cecs.anu.edu.au/~cherian/)
 
 **PhD Researcher** at the Australian National University (2023-present)   
 
