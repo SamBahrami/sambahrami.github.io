@@ -79,6 +79,6 @@ University of Adelaide -->
 
 **Reviewer** for [ICLR 2026](https://iclr.cc/Conferences/2026)
 
-**Reviewer** for [AJCAI 2026](https://ajcai2026.org/)
+**Reviewer** for [AJCAI 2026](https://ajcai26.org/)
 
 **Reviewer** for [AJCAI 2025](https://ajcai2025.org/)
